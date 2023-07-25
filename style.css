@@ -93,7 +93,7 @@ input {
 }
 @media (max-width: 500px) {
     .cal {
-        width: 65%;
+        width: 75%;
         height: 73%
     }
 }
